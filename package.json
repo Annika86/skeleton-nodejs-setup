@@ -11,22 +11,22 @@
     "dev": "nodemon"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.30.5",
-    "@typescript-eslint/parser": "^5.30.5",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-jsdoc": "^39.3.3",
+    "@typescript-eslint/eslint-plugin": "^5.49.0",
+    "@typescript-eslint/parser": "^5.49.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsdoc": "^39.7.4",
     "eslint-plugin-prefer-arrow": "^1.2.3"
   },
   "devDependencies": {
-    "@types/node": "^18.0.3",
-    "dotenv": "^16.0.1",
-    "eslint": "^8.19.0",
+    "@types/node": "^18.11.18",
+    "dotenv": "^16.0.3",
+    "eslint": "^8.33.0",
     "eslint-plugin-sort-keys-fix": "^1.1.2",
-    "lint-staged": "^13.0.3",
-    "nodemon": "^2.0.19",
-    "prettier": "^2.7.1",
+    "lint-staged": "^13.1.0",
+    "nodemon": "^2.0.20",
+    "prettier": "^2.8.3",
     "prettier-check": "^2.0.0",
-    "typescript": "^4.7.4"
+    "typescript": "^4.9.5"
   }
 }
