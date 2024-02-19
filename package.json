@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.11.17",
-    "dotenv": "^16.4.1",
+    "dotenv": "^16.4.4",
     "eslint": "^8.56.0",
     "eslint-plugin-sort-keys-fix": "^1.1.2",
     "lint-staged": "^15.2.2",
