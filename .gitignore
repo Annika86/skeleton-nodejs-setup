@@ -4,3 +4,4 @@ dist
 .env
 .npmrc
 yarn-error.log
+.idea
