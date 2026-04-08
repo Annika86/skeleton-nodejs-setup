@@ -1,10 +1,12 @@
 {
   "compilerOptions": {
+    "rootDir": "./src",
     "outDir": "./dist",
     "pretty": false,
     "target": "es2020",
-    "module": "commonjs",
-    "moduleResolution": "node",
+    "module": "es2015",
+    "moduleResolution": "bundler",
+    "types": ["node"],
     "declaration": true,
     "declarationMap": false,
     "sourceMap": true,
