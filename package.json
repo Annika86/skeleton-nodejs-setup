@@ -31,6 +31,7 @@
     "typescript": "^5.9.3"
   },
   "resolutions": {
-    "minimatch": "10.2.3"
+    "minimatch": "10.2.3",
+    "picomatch": "4.0.4"
   }
 }
