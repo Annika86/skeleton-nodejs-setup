@@ -21,7 +21,7 @@
     "eslint-plugin-prefer-arrow": "^1.2.3"
   },
   "devDependencies": {
-    "@types/node": "^26.6.2",
+    "@types/node": "^26.6.4",
     "dotenv": "^18.0.4",
     "eslint": "^9.39.2",
     "eslint-plugin-sort-keys-fix": "^1.1.2",
