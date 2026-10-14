@@ -168,15 +168,15 @@
     natural-compare "^1.4.0"
     ts-api-utils "^2.5.0"
 
-"@typescript-eslint/parser@^8.70.1":
-  version "8.70.1"
-  resolved "https://registry.yarnpkg.com/@typescript-eslint/parser/-/parser-8.70.1.tgz#6c99b7b954efc05dae179001c8b477d1a8948dcf"
-  integrity sha512-nO974WLllwhSFWQXnMLj6nDGa8f0khKEz1JzpPJ1u7Vm/4X1X6ZHajpoknU4bb41vJyMB0HHVyS2GqdhWfIXZw==
+"@typescript-eslint/parser@^8.71.1":
+  version "8.71.1"
+  resolved "https://registry.yarnpkg.com/@typescript-eslint/parser/-/parser-8.71.1.tgz#aad16e9813272b931caab52393449fa11cc4a269"
+  integrity sha512-oM/5sAqz/l1v/zYK1qTOPrn2+JIrBGC1V6uNYucRO5gh6eT9vWJ/RhPbGE59byvZEUQ4VP6XkLBaS5Jti5jpvw==
   dependencies:
-    "@typescript-eslint/scope-manager" "8.70.1"
-    "@typescript-eslint/types" "8.70.1"
-    "@typescript-eslint/typescript-estree" "8.70.1"
-    "@typescript-eslint/visitor-keys" "8.70.1"
+    "@typescript-eslint/scope-manager" "8.71.1"
+    "@typescript-eslint/types" "8.71.1"
+    "@typescript-eslint/typescript-estree" "8.71.1"
+    "@typescript-eslint/visitor-keys" "8.71.1"
     debug "^4.4.3"
 
 "@typescript-eslint/project-service@8.70.1":
@@ -234,12 +234,12 @@
     debug "^4.4.3"
     ts-api-utils "^2.5.0"
 
-"@typescript-eslint/types@8.70.1", "@typescript-eslint/types@^8.70.0", "@typescript-eslint/types@^8.70.1":
+"@typescript-eslint/types@8.70.1":
   version "8.70.1"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/types/-/types-8.70.1.tgz#2022b9d07d057174eba25b9bbd289641d262a196"
   integrity sha512-Dm1ypdhhrGCTyyehxElhgJ6kgk8MVCv5qXdoOVqPr1uqk42jX8KjrZqhROvdShczA8qrDoYiOWn1ykWlx2k81Q==
 
-"@typescript-eslint/types@8.71.1", "@typescript-eslint/types@^8.71.1":
+"@typescript-eslint/types@8.71.1", "@typescript-eslint/types@^8.70.0", "@typescript-eslint/types@^8.70.1", "@typescript-eslint/types@^8.71.1":
   version "8.71.1"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/types/-/types-8.71.1.tgz#5ac145ce6251e4b51ab8fbecfcc453faad8aa0f3"
   integrity sha512-ybYnPTUwg3VQQOFEiBPLs8Jxl1ry2vXdn1kVKguomBbvxpetdu3MKTNDqFNUrlG8ylP9MpZosmXMFYlGQHk1oQ==
